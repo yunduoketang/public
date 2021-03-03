@@ -3,10 +3,11 @@
   <groupId>com.yunduoketang.liveroom</groupId>
   <artifactId>classroom</artifactId>
   <versioning>
-    <release>1.0.0_bate01</release>
+    <release>1.0.0_bate01_yd</release>
     <versions>
       <version>1.0.0_bate01</version>
+      <version>1.0.0_bate01_yd</version>
     </versions>
-    <lastUpdated>20210303073956</lastUpdated>
+    <lastUpdated>20210303074543</lastUpdated>
   </versioning>
 </metadata>
