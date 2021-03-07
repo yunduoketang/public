@@ -3,11 +3,12 @@
   <groupId>com.yunduoketang.liveroom</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.0_bate01_yd</release>
+    <release>1.0.0_bate02_yd</release>
     <versions>
       <version>1.0.0_bate01</version>
       <version>1.0.0_bate01_yd</version>
+      <version>1.0.0_bate02_yd</version>
     </versions>
-    <lastUpdated>20210307092911</lastUpdated>
+    <lastUpdated>20210307102955</lastUpdated>
   </versioning>
 </metadata>
